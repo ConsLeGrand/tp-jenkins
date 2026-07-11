@@ -252,6 +252,7 @@ Le job de test de la section suivante s'exécute sur un **agent Docker provision
 - **Docker Image** : `conslegrand312/jenkins-agent:1.0.0`
 - **Remote Filesystem Root** : `/home/jenkins`
 - **Connect method** : `Connect with JNLP`
+-  **containers settings > Mounts >** : `type=bind,src=/var/run/docker.sock,dst=/var/run/docker.sock`
 
 > Aucune capture n'a été fournie pour cette sous-étape précise : suivre les libellés de champs ci-dessus dans l'interface, qui correspondent à ceux affichés une fois « Docker Agent templates » déplié à l'étape 9.
 
