@@ -1,9 +1,4 @@
 # TP — Déploiement de Jenkins avec Docker Compose
-
-**Niveau :** Master
-**Durée estimée :** 2h à 3h
-**Prérequis :** notions de base de Docker, du terminal, et de l'intégration continue (CI/CD)
-
 ---
 
 ## 1. Objectifs
